@@ -22,4 +22,4 @@ Only the website records point at GitHub. Leave MX and TXT records alone.
 | A     | @    | 185.199.109.153 |
 | A     | @    | 185.199.110.153 |
 | A     | @    | 185.199.111.153 |
-| CNAME | www  | <github-user>.github.io |
+| CNAME | www  | parzival-thinks.github.io |
